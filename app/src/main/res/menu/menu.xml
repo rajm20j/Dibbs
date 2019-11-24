@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Deals"
+        android:id="@+id/action_deals"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:title="Search"
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:title="Saved"
+        android:id="@+id/action_saved"
+        android:icon="@drawable/ic_launcher_background"/>
+
+    <item android:title="My DIBBS"
+        android:id="@+id/action_myDibbs"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
